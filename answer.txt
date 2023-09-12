@@ -1,1 +1,1 @@
-test
+1. The product owner is responsible for overlooking development tasks amongst their team and ensuring that their team's work is bringing value to the company. A product owner is need to drive a product cycle. In a non-Agile project, a product manager is equivalent to the product owner.
